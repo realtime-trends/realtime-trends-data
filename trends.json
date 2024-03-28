@@ -1,0 +1,493 @@
+{
+    "timestamps": [
+        1711643795,
+        1711644108,
+        1711644414
+    ],
+    "1711643795": [
+        {
+            "keyword": "축구 올림픽 대표팀",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "c139dabef247f1ce",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "공관장 이종섭",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "f068fefea1a456e6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "임영웅",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "719aa4943cac959c",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "광주 롯데",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "3d3f579b98d85910",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "한동훈 선거운동 첫날",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "9000f644236c4b17",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "황선홍 감독",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "90878627e7895a91",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "이재명 유세 현장",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "c98cc1f9fd3e3f51",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "정재호 주중대사 갑질",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "b8d4b58c2e567a51",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "의협 회장 당락",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "d7f28ff5a050dfe5",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "헌재 사드 배치",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "3118c116617c43cf",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "박은정 남편 다단계",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "b68decf6ca18cefa",
+            "delta": 2,
+            "topArticles": []
+        },
+        {
+            "keyword": "블랙핑크 아이랜드2 시그널송",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "5d9cd525ac53db64",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "나솔사계",
+            "score": 11.899999999999999,
+            "maxscore": 11.899999999999999,
+            "hashed": "a7df2f4bc50fb55e",
+            "delta": -2,
+            "topArticles": []
+        },
+        {
+            "keyword": "기시다 성과내는 이익",
+            "score": 11.2,
+            "maxscore": 11.2,
+            "hashed": "23a4a6450f34fb02",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "유권자 투표",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "97ec9d7f08a1b48a",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "대출 양문석 측",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "ac03beff5550df61",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "그레이 전속계약 종료",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "179036a9c7cab48d",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "김지원 여왕 1위",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "50a3fe7cfa2c211b",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "챔피언결정전 1차전",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "b37151ae1a8a3048",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "박항서 베트남 감독",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "986cbddf7e98479c",
+            "delta": 0,
+            "topArticles": []
+        }
+    ],
+    "1711644108": [
+        {
+            "keyword": "축구 올림픽 대표팀",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "c139dabef247f1ce",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "공관장 이종섭",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "f068fefea1a456e6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "임영웅",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "719aa4943cac959c",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "광주 롯데",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "3d3f579b98d85910",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "한동훈 선거운동 첫날",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "9000f644236c4b17",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "황선홍 감독",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "90878627e7895a91",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "이재명 유세 현장",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "c98cc1f9fd3e3f51",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "정재호 주중대사 갑질",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "b8d4b58c2e567a51",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "의협 회장 당락",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "d7f28ff5a050dfe5",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "헌재 사드 배치",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "3118c116617c43cf",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "박은정 남편 다단계",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "b68decf6ca18cefa",
+            "delta": 2,
+            "topArticles": []
+        },
+        {
+            "keyword": "블랙핑크 아이랜드2 시그널송",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "5d9cd525ac53db64",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "나솔사계",
+            "score": 11.899999999999999,
+            "maxscore": 11.899999999999999,
+            "hashed": "a7df2f4bc50fb55e",
+            "delta": -2,
+            "topArticles": []
+        },
+        {
+            "keyword": "기시다 성과내는 이익",
+            "score": 11.2,
+            "maxscore": 11.2,
+            "hashed": "23a4a6450f34fb02",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "유권자 투표",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "97ec9d7f08a1b48a",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "대출 양문석 측",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "ac03beff5550df61",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "그레이 전속계약 종료",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "179036a9c7cab48d",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "김지원 여왕 1위",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "50a3fe7cfa2c211b",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "챔피언결정전 1차전",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "b37151ae1a8a3048",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "박항서 베트남 감독",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "986cbddf7e98479c",
+            "delta": 0,
+            "topArticles": []
+        }
+    ],
+    "1711644414": [
+        {
+            "keyword": "축구 올림픽 대표팀",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "c139dabef247f1ce",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "공관장 이종섭",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "f068fefea1a456e6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "임영웅",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "719aa4943cac959c",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "광주 롯데",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "3d3f579b98d85910",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "한동훈 선거운동 첫날",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "9000f644236c4b17",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "황선홍 감독",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "90878627e7895a91",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "이재명 유세 현장",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "c98cc1f9fd3e3f51",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "정재호 주중대사 갑질",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "b8d4b58c2e567a51",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "의협 회장 당락",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "d7f28ff5a050dfe5",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "헌재 사드 배치",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "3118c116617c43cf",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "박은정 남편 다단계",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "b68decf6ca18cefa",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "블랙핑크 아이랜드2 시그널송",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "5d9cd525ac53db64",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "기시다 성과내는 이익",
+            "score": 11.899999999999999,
+            "maxscore": 11.899999999999999,
+            "hashed": "23a4a6450f34fb02",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "나솔사계",
+            "score": 11.2,
+            "maxscore": 11.2,
+            "hashed": "a7df2f4bc50fb55e",
+            "delta": -1,
+            "topArticles": []
+        },
+        {
+            "keyword": "유권자 투표",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "97ec9d7f08a1b48a",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "대출 양문석 측",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "ac03beff5550df61",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "그레이 전속계약 종료",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "179036a9c7cab48d",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "김지원 여왕 1위",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "50a3fe7cfa2c211b",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "챔피언결정전 1차전",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "b37151ae1a8a3048",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "박항서 베트남 감독",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "986cbddf7e98479c",
+            "delta": 0,
+            "topArticles": []
+        }
+    ]
+}

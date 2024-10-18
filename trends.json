@@ -1,0 +1,608 @@
+{
+    "timestamps": [
+        1729294540,
+        1729294838,
+        1729294239,
+        1729295138
+    ],
+    "1729294239": [
+        {
+            "keyword": "문다혜",
+            "score": 22.4,
+            "maxscore": 15.0,
+            "hashed": "c7687b9a997a7cc5",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "손흥민 웨스트햄",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "7a9fba6851b3a7d0",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "성폭행 박지윤",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "b56559c3787aabb6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "편스토랑 김재중 김준수",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "202a8cb28a98f2ef",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "차승원 삼시세끼 유해진",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "9ba3f45b07f306de",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "하마스 신와르",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "92cc3844da75fe40",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "무인기 국군의날 공개된",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "2adfff37e9fff37c",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "토트넘 손흥민",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "b0b870939076a1e9",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "최동석",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "e876af0725b7c600",
+            "delta": 4,
+            "topArticles": []
+        },
+        {
+            "keyword": "러시아 파병 확인",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "7b4ed64259e5ddbd",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "모야모야병",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "0f125d604ef32dd2",
+            "delta": 3,
+            "topArticles": []
+        },
+        {
+            "keyword": "법원 유튜버 무기징역",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "61a6a40f13e8b7cf",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "기름값 12주 만에",
+            "score": 11.2,
+            "maxscore": 11.2,
+            "hashed": "4a7392f8b6b9c831",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "민희진 특정인",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "e646818e830b92f6",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "아파트서 노모 아들",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "8f4bd418f779f56a",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "건물주 기안84 박지현에",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "bd5073a94ca36948",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "김재중모 박유천 빠져",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "ea4c891b5ad9f796",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "사진 100장 뉴진스",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "a0f4df030639b578",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "몬테네그로 범죄인 인도국",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "647ec6f60cf94f23",
+            "delta": 999,
+            "topArticles": []
+        }
+    ],
+    "1729294540": [
+        {
+            "keyword": "문다혜",
+            "score": 22.4,
+            "maxscore": 15.0,
+            "hashed": "c7687b9a997a7cc5",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "손흥민 웨스트햄",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "7a9fba6851b3a7d0",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "성폭행 박지윤",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "b56559c3787aabb6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "편스토랑 김재중 김준수",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "202a8cb28a98f2ef",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "차승원 삼시세끼 유해진",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "9ba3f45b07f306de",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "하마스 신와르",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "92cc3844da75fe40",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "무인기 국군의날 공개된",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "2adfff37e9fff37c",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "토트넘 손흥민",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "b0b870939076a1e9",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "최동석",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "e876af0725b7c600",
+            "delta": 4,
+            "topArticles": []
+        },
+        {
+            "keyword": "러시아 파병 확인",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "7b4ed64259e5ddbd",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "모야모야병",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "0f125d604ef32dd2",
+            "delta": 3,
+            "topArticles": []
+        },
+        {
+            "keyword": "법원 유튜버 무기징역",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "61a6a40f13e8b7cf",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "기름값 12주 만에",
+            "score": 11.2,
+            "maxscore": 11.2,
+            "hashed": "4a7392f8b6b9c831",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "민희진 특정인",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "e646818e830b92f6",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "아파트서 노모 아들",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "8f4bd418f779f56a",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "건물주 기안84 박지현에",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "bd5073a94ca36948",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "김재중모 박유천 빠져",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "ea4c891b5ad9f796",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "사진 100장 뉴진스",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "a0f4df030639b578",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "몬테네그로 범죄인 인도국",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "647ec6f60cf94f23",
+            "delta": 999,
+            "topArticles": []
+        }
+    ],
+    "1729294838": [
+        {
+            "keyword": "최동석",
+            "score": 25.9,
+            "maxscore": 18.0,
+            "hashed": "e876af0725b7c600",
+            "delta": 12,
+            "topArticles": []
+        },
+        {
+            "keyword": "문다혜",
+            "score": 23.799999999999997,
+            "maxscore": 17.0,
+            "hashed": "c7687b9a997a7cc5",
+            "delta": -1,
+            "topArticles": []
+        },
+        {
+            "keyword": "차승원 삼시세끼 유해진",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "9ba3f45b07f306de",
+            "delta": 2,
+            "topArticles": []
+        },
+        {
+            "keyword": "손흥민 웨스트햄",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "7a9fba6851b3a7d0",
+            "delta": -2,
+            "topArticles": []
+        },
+        {
+            "keyword": "상습 유아인 연장",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "6785ab8b71b3f034",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "토트넘 손흥민",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "b0b870939076a1e9",
+            "delta": 2,
+            "topArticles": []
+        },
+        {
+            "keyword": "무인기 국군의날 공개된",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "2adfff37e9fff37c",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "법원 유튜버 무기징역",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "61a6a40f13e8b7cf",
+            "delta": 4,
+            "topArticles": []
+        },
+        {
+            "keyword": "러시아 파병 확인",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "7b4ed64259e5ddbd",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "모야모야병",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "0f125d604ef32dd2",
+            "delta": 4,
+            "topArticles": []
+        },
+        {
+            "keyword": "민희진 특정인",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "e646818e830b92f6",
+            "delta": 4,
+            "topArticles": []
+        },
+        {
+            "keyword": "기름값 12주 만에",
+            "score": 11.2,
+            "maxscore": 11.2,
+            "hashed": "4a7392f8b6b9c831",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "앙리 축구",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "4ad523ac2d648f99",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "아파트서 노모 아들",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "8f4bd418f779f56a",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "건물주 기안84 박지현에",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "bd5073a94ca36948",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "김재중모 박유천 빠져",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "ea4c891b5ad9f796",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "사진 100장 뉴진스",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "a0f4df030639b578",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "몬테네그로 범죄인 인도국",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "647ec6f60cf94f23",
+            "delta": 999,
+            "topArticles": []
+        }
+    ],
+    "1729295138": [
+        {
+            "keyword": "최동석",
+            "score": 25.9,
+            "maxscore": 18.0,
+            "hashed": "e876af0725b7c600",
+            "delta": 8,
+            "topArticles": []
+        },
+        {
+            "keyword": "문다혜",
+            "score": 23.799999999999997,
+            "maxscore": 17.0,
+            "hashed": "c7687b9a997a7cc5",
+            "delta": -1,
+            "topArticles": []
+        },
+        {
+            "keyword": "차승원 삼시세끼 유해진",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "9ba3f45b07f306de",
+            "delta": 2,
+            "topArticles": []
+        },
+        {
+            "keyword": "손흥민 웨스트햄",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "7a9fba6851b3a7d0",
+            "delta": -2,
+            "topArticles": []
+        },
+        {
+            "keyword": "상습 유아인 연장",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "6785ab8b71b3f034",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "토트넘 손흥민",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "b0b870939076a1e9",
+            "delta": 2,
+            "topArticles": []
+        },
+        {
+            "keyword": "무인기 국군의날 공개된",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "2adfff37e9fff37c",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "법원 유튜버 무기징역",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "61a6a40f13e8b7cf",
+            "delta": 4,
+            "topArticles": []
+        },
+        {
+            "keyword": "러시아 파병 확인",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "7b4ed64259e5ddbd",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "모야모야병",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "0f125d604ef32dd2",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "민희진 특정인",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "e646818e830b92f6",
+            "delta": 3,
+            "topArticles": []
+        },
+        {
+            "keyword": "기름값 12주 만에",
+            "score": 11.2,
+            "maxscore": 11.2,
+            "hashed": "4a7392f8b6b9c831",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "앙리 축구",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "4ad523ac2d648f99",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "아파트서 노모 아들",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "8f4bd418f779f56a",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "건물주 기안84 박지현에",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "bd5073a94ca36948",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "김재중모 박유천 빠져",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "ea4c891b5ad9f796",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "사진 100장 뉴진스",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "a0f4df030639b578",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "몬테네그로 범죄인 인도국",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "647ec6f60cf94f23",
+            "delta": 1,
+            "topArticles": []
+        }
+    ]
+}

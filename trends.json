@@ -1,0 +1,656 @@
+{
+    "timestamps": [
+        1729215338,
+        1729215636,
+        1729215941,
+        1729216234
+    ],
+    "1729215338": [
+        {
+            "keyword": "손흥민 웨스트햄",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "7a9fba6851b3a7d0",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "해리스 트럼프",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "a82d5810a84ff273",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "젤렌스키 우크라",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "72cc09df255a8dbf",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "손흥민 토트넘",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "845654fd16ab96c8",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "기안84 박지현",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "71fb20a1cff1ad52",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "불법도박 이진호 화성시",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "7133fdd3995987eb",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "김정은 적국 물리력",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "2eb466234efd041f",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "최동석 박지윤",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "8d7d3674c9418193",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "추경호 특검법",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "fbe387e7f5026bb8",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "오송 참사",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "51e9febcb250cc8d",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "김미려",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "fbcd21a22e1a66b6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "어도어 민희진 재선임",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "d443d59869fcdbc4",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "신와르 최후의 저항",
+            "score": 11.899999999999999,
+            "maxscore": 11.899999999999999,
+            "hashed": "886d10109d155f43",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "NCT 재현 24일",
+            "score": 11.2,
+            "maxscore": 11.2,
+            "hashed": "b450a9eb96bad37d",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "구자욱 삼성",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "54b5df5ae720f252",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "홈플러스 절임배추 사전예약",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "d61a8da5e491a390",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "현대차 배터리 기술인력",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "033103f68d4b3980",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "젤렌스키 북 준비",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "0924f01f59607e9e",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "코스피 강보합 출발",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "6e85848f900cb73a",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "삼성 이재용",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "8710e3743dbdfb01",
+            "delta": 0,
+            "topArticles": []
+        }
+    ],
+    "1729215636": [
+        {
+            "keyword": "손흥민 웨스트햄",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "7a9fba6851b3a7d0",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "해리스 트럼프",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "a82d5810a84ff273",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "젤렌스키 우크라",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "72cc09df255a8dbf",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "손흥민 토트넘",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "845654fd16ab96c8",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "기안84 박지현",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "71fb20a1cff1ad52",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "불법도박 이진호 화성시",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "7133fdd3995987eb",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "김정은 적국",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "81a11ccaa2c83166",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "최동석 박지윤",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "8d7d3674c9418193",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "이재명 대한민국 사망",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "13c0d7ba22350120",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "오송 참사",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "51e9febcb250cc8d",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "추경호 특검법",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "fbe387e7f5026bb8",
+            "delta": -2,
+            "topArticles": []
+        },
+        {
+            "keyword": "어도어 민희진 재선임",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "d443d59869fcdbc4",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "손흥민 동료 판더펜",
+            "score": 11.899999999999999,
+            "maxscore": 11.899999999999999,
+            "hashed": "9ace75372b31b14c",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "NCT 재현 24일",
+            "score": 11.2,
+            "maxscore": 11.2,
+            "hashed": "b450a9eb96bad37d",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "구자욱 삼성",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "54b5df5ae720f252",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "현대차 배터리 기술인력",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "033103f68d4b3980",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "이장우 호두과자 부창제과",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "da352e213fadf665",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "삼성 이재용",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "8710e3743dbdfb01",
+            "delta": 2,
+            "topArticles": []
+        },
+        {
+            "keyword": "고소영 데뷔 첫",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "259b5b89933efeb3",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "뉴진스 옴므걸즈 표지",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "97c1145eb8c25b96",
+            "delta": 999,
+            "topArticles": []
+        }
+    ],
+    "1729215941": [
+        {
+            "keyword": "손흥민 토트넘",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "845654fd16ab96c8",
+            "delta": 3,
+            "topArticles": []
+        },
+        {
+            "keyword": "박수홍 김다예 슈돌",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "e1dac7c6369780bd",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "채정안 공유",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "bd16de60460561ee",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "류승수 전현무",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "0bb69d827a6bc080",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "19기 영숙 나솔사계",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "fb4aefc73fb7b6d4",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "블랙핑크 마스와",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "5e4ad4f0b40e8579",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "김정은 적국",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "81a11ccaa2c83166",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "부산 개막전",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "e1f3e36231a80b82",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "이재명 대한민국 사망",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "13c0d7ba22350120",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "씨엔블루 정용화",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "7fa2eb3408c3e112",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "추경호 특검법",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "fbe387e7f5026bb8",
+            "delta": -2,
+            "topArticles": []
+        },
+        {
+            "keyword": "손흥민 웨스트햄",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "7a9fba6851b3a7d0",
+            "delta": -11,
+            "topArticles": []
+        },
+        {
+            "keyword": "손흥민 동료 판더펜",
+            "score": 11.899999999999999,
+            "maxscore": 11.899999999999999,
+            "hashed": "9ace75372b31b14c",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "NCT 재현 24일",
+            "score": 11.2,
+            "maxscore": 11.2,
+            "hashed": "b450a9eb96bad37d",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "해리스 트럼프",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "a82d5810a84ff273",
+            "delta": -13,
+            "topArticles": []
+        },
+        {
+            "keyword": "현대차 배터리 기술인력",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "033103f68d4b3980",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "이장우 호두과자 부창제과",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "da352e213fadf665",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "삼성 이재용",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "8710e3743dbdfb01",
+            "delta": 2,
+            "topArticles": []
+        },
+        {
+            "keyword": "고소영 데뷔 첫",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "259b5b89933efeb3",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "뉴진스 옴므걸즈 표지",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "97c1145eb8c25b96",
+            "delta": 999,
+            "topArticles": []
+        }
+    ],
+    "1729216234": [
+        {
+            "keyword": "손흥민 토트넘",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "845654fd16ab96c8",
+            "delta": 3,
+            "topArticles": []
+        },
+        {
+            "keyword": "박수홍 김다예 슈돌",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "e1dac7c6369780bd",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "채정안 공유",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "bd16de60460561ee",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "류승수 전현무",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "0bb69d827a6bc080",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "19기 영숙 나솔사계",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "fb4aefc73fb7b6d4",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "블랙핑크 마스와",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "5e4ad4f0b40e8579",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "김정은 적국",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "81a11ccaa2c83166",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "부산 개막전",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "e1f3e36231a80b82",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "이재명 대한민국 사망",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "13c0d7ba22350120",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "씨엔블루 정용화",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "7fa2eb3408c3e112",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "추경호 특검법",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "fbe387e7f5026bb8",
+            "delta": -2,
+            "topArticles": []
+        },
+        {
+            "keyword": "손흥민 웨스트햄",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "7a9fba6851b3a7d0",
+            "delta": -11,
+            "topArticles": []
+        },
+        {
+            "keyword": "손흥민 동료 판더펜",
+            "score": 11.899999999999999,
+            "maxscore": 11.899999999999999,
+            "hashed": "9ace75372b31b14c",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "NCT 재현 24일",
+            "score": 11.2,
+            "maxscore": 11.2,
+            "hashed": "b450a9eb96bad37d",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "해리스 트럼프",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "a82d5810a84ff273",
+            "delta": -13,
+            "topArticles": []
+        },
+        {
+            "keyword": "현대차 배터리 기술인력",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "033103f68d4b3980",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "이장우 호두과자 부창제과",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "da352e213fadf665",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "삼성 이재용",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "8710e3743dbdfb01",
+            "delta": 2,
+            "topArticles": []
+        },
+        {
+            "keyword": "고소영 데뷔 첫",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "259b5b89933efeb3",
+            "delta": 999,
+            "topArticles": []
+        },
+        {
+            "keyword": "뉴진스 옴므걸즈 표지",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "97c1145eb8c25b96",
+            "delta": 999,
+            "topArticles": []
+        }
+    ]
+}

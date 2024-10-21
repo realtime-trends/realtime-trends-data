@@ -1,0 +1,624 @@
+{
+    "timestamps": [
+        1729536641,
+        1729536938,
+        1729536346,
+        1729537239
+    ],
+    "1729536346": [
+        {
+            "keyword": "김민재",
+            "score": 21.0,
+            "maxscore": 14.0,
+            "hashed": "a49f60628de93e45",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "대통령 한동훈 대표",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "9d1ad013b8161895",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "한국시리즈 1차전",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "2c2e25b6248488ee",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "미겔 감독",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "84d5847de9c182ef",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "명태균 강혜경",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "9de0b3e6ba1d0f24",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "여자 프로농구",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "cc15c1325963e4bd",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "문근영 건강 이상설",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "f26178d1eb5dc72e",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "1차전 22일 재개",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "27da9c0075d156c6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "송가인",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "902b466fb3b029a2",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "정해인 정소민 열애설",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "f01efca603461fe9",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "한동훈 여사 해소",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "2dccebb75a9ac8f6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "선우은숙 유영재 강제추행",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "92595d0401e6aee9",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "윤 북 나토와",
+            "score": 11.899999999999999,
+            "maxscore": 11.899999999999999,
+            "hashed": "3e46b6620b71c928",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "이범호 감독",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "e000e6a5e8503841",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "나의 해리에게",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "06bfb7baf18b352a",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "이탈한 북한군 18명",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "6fd07954d0059a41",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "최강야구",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "6657901e270144f0",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "오종혁 27개월 딸",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "ed812d464086b0d3",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "KCC 개막 2연승",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "524db7cf860e74d5",
+            "delta": 0,
+            "topArticles": []
+        }
+    ],
+    "1729536641": [
+        {
+            "keyword": "김민재",
+            "score": 21.0,
+            "maxscore": 14.0,
+            "hashed": "a49f60628de93e45",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "대통령 한동훈 대표",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "9d1ad013b8161895",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "한국시리즈 1차전",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "2c2e25b6248488ee",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "미겔 감독",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "84d5847de9c182ef",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "명태균 강혜경",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "9de0b3e6ba1d0f24",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "여자 프로농구",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "cc15c1325963e4bd",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "문근영 건강 이상설",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "f26178d1eb5dc72e",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "1차전 22일 재개",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "27da9c0075d156c6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "송가인",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "902b466fb3b029a2",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "정해인 정소민 열애설",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "f01efca603461fe9",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "한동훈 여사 해소",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "2dccebb75a9ac8f6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "선우은숙 유영재 강제추행",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "92595d0401e6aee9",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "윤 북 나토와",
+            "score": 11.899999999999999,
+            "maxscore": 11.899999999999999,
+            "hashed": "3e46b6620b71c928",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "이범호 감독",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "e000e6a5e8503841",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "나의 해리에게",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "06bfb7baf18b352a",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "이탈한 북한군 18명",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "6fd07954d0059a41",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "최강야구",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "6657901e270144f0",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "오종혁 27개월 딸",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "ed812d464086b0d3",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "KCC 개막 2연승",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "524db7cf860e74d5",
+            "delta": 0,
+            "topArticles": []
+        }
+    ],
+    "1729536938": [
+        {
+            "keyword": "김민재",
+            "score": 21.0,
+            "maxscore": 14.0,
+            "hashed": "a49f60628de93e45",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "대통령 한동훈 대표",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "9d1ad013b8161895",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "한국시리즈 1차전",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "2c2e25b6248488ee",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "미겔 감독",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "84d5847de9c182ef",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "명태균 강혜경",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "9de0b3e6ba1d0f24",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "여자 프로농구",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "cc15c1325963e4bd",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "문근영 건강 이상설",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "f26178d1eb5dc72e",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "1차전 22일 재개",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "27da9c0075d156c6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "송가인",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "902b466fb3b029a2",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "정해인 정소민 열애설",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "f01efca603461fe9",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "한동훈 여사 해소",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "2dccebb75a9ac8f6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "선우은숙 유영재 강제추행",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "92595d0401e6aee9",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "윤 북 나토와",
+            "score": 11.899999999999999,
+            "maxscore": 11.899999999999999,
+            "hashed": "3e46b6620b71c928",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "이범호 감독",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "e000e6a5e8503841",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "이탈한 북한군 18명",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "6fd07954d0059a41",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "나의 해리에게",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "06bfb7baf18b352a",
+            "delta": -1,
+            "topArticles": []
+        },
+        {
+            "keyword": "최강야구",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "6657901e270144f0",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "오종혁 27개월 딸",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "ed812d464086b0d3",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "KCC 개막 2연승",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "524db7cf860e74d5",
+            "delta": 0,
+            "topArticles": []
+        }
+    ],
+    "1729537239": [
+        {
+            "keyword": "김민재",
+            "score": 21.0,
+            "maxscore": 14.0,
+            "hashed": "a49f60628de93e45",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "대통령 한동훈 대표",
+            "score": 20.0,
+            "maxscore": 20.0,
+            "hashed": "9d1ad013b8161895",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "한국시리즈 1차전",
+            "score": 19.0,
+            "maxscore": 19.0,
+            "hashed": "2c2e25b6248488ee",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "미겔 감독",
+            "score": 18.0,
+            "maxscore": 18.0,
+            "hashed": "84d5847de9c182ef",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "명태균 강혜경",
+            "score": 17.0,
+            "maxscore": 17.0,
+            "hashed": "9de0b3e6ba1d0f24",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "여자 프로농구",
+            "score": 16.0,
+            "maxscore": 16.0,
+            "hashed": "cc15c1325963e4bd",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "문근영 건강 이상설",
+            "score": 15.0,
+            "maxscore": 15.0,
+            "hashed": "f26178d1eb5dc72e",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "1차전 22일 재개",
+            "score": 14.0,
+            "maxscore": 14.0,
+            "hashed": "27da9c0075d156c6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "송가인",
+            "score": 13.299999999999999,
+            "maxscore": 13.299999999999999,
+            "hashed": "902b466fb3b029a2",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "정해인 정소민 열애설",
+            "score": 13.0,
+            "maxscore": 13.0,
+            "hashed": "f01efca603461fe9",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "한동훈 여사 해소",
+            "score": 12.6,
+            "maxscore": 12.6,
+            "hashed": "2dccebb75a9ac8f6",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "선우은숙 유영재 강제추행",
+            "score": 12.0,
+            "maxscore": 12.0,
+            "hashed": "92595d0401e6aee9",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "윤 북 나토와",
+            "score": 11.899999999999999,
+            "maxscore": 11.899999999999999,
+            "hashed": "3e46b6620b71c928",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "이범호 감독",
+            "score": 11.0,
+            "maxscore": 11.0,
+            "hashed": "e000e6a5e8503841",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "이탈한 북한군 18명",
+            "score": 10.5,
+            "maxscore": 10.5,
+            "hashed": "6fd07954d0059a41",
+            "delta": 1,
+            "topArticles": []
+        },
+        {
+            "keyword": "나의 해리에게",
+            "score": 9.799999999999999,
+            "maxscore": 9.799999999999999,
+            "hashed": "06bfb7baf18b352a",
+            "delta": -1,
+            "topArticles": []
+        },
+        {
+            "keyword": "최강야구",
+            "score": 9.1,
+            "maxscore": 9.1,
+            "hashed": "6657901e270144f0",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "오종혁 27개월 딸",
+            "score": 8.399999999999999,
+            "maxscore": 8.399999999999999,
+            "hashed": "ed812d464086b0d3",
+            "delta": 0,
+            "topArticles": []
+        },
+        {
+            "keyword": "KCC 개막 2연승",
+            "score": 7.699999999999999,
+            "maxscore": 7.699999999999999,
+            "hashed": "524db7cf860e74d5",
+            "delta": 0,
+            "topArticles": []
+        }
+    ]
+}
